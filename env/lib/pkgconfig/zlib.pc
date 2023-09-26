@@ -1,0 +1,13 @@
+prefix=/Users/avnikapoor/Desktop/book_recommender/env
+exec_prefix=/Users/avnikapoor/Desktop/book_recommender/env
+libdir=/Users/avnikapoor/Desktop/book_recommender/env/lib
+sharedlibdir=/Users/avnikapoor/Desktop/book_recommender/env/lib
+includedir=/Users/avnikapoor/Desktop/book_recommender/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

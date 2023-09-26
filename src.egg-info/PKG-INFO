@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/avkap007/Books-Recommender-System-Using-ML
+Author: avkap007
+Author-email: avni_kapoor@sfu.ca
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Project Name : Book recommender system using Machine Learning | Collaborative Filerting
+
+
+
