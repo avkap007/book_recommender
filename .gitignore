@@ -1,1 +1,19 @@
-.env #to ignore the .env file
+# Virtual environment
+env/
+
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+#artifact files
+
+artifacts/
+
+#large data
+data/
+
+# Generated during the package creation process
+*.egg-info/
+
+# IDE/Editor folders
+.vscode/
+.idea/
